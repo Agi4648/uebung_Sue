@@ -1,0 +1,19 @@
+{
+    "name": "agi4648/uebung_sue",
+    "description": "This is a Test library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Agi4648\\UebungSue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Agnesa Salihi",
+            "email": "asalihi@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
